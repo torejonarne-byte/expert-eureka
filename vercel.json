@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://crazygames.com"
+      "destination": "https://google.com"
     }
   ]
 }
