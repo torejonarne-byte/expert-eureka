@@ -1,8 +1,9 @@
 {
+  "version": 2,
   "rewrites": [
     {
-      "source": "/:match*",
-      "destination": "https://crazygames.com*"
+      "source": "/(.*)",
+      "destination": "https://crazygames.com"
     }
   ]
 }
